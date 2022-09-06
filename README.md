@@ -1,2 +1,2 @@
 # reproduing-wheeze-detection
-reproduing results of wheeze detection: picture, code, slide, wav file
+Our group try to reproduct the results of Emrani et al, IEEE Signal Processing Letters, 2014.
